@@ -22,8 +22,6 @@ Complete end-to-end Packers & Movers Web Application.
 **quotation Request**
 ![Materials details](https://user-images.githubusercontent.com/106448198/196048880-8ba73aa5-d7eb-4c5a-a665-4c48feea973c.jpg)
 
-**fetching details via Emailjs Api**
-
 ## Getting Started
 
 **Packers & Movers** is single page **Reactjs** web Application where you can find many rated individual contractors.
